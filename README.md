@@ -1,4 +1,4 @@
-# Prestashop ZaloPay
+# Prestashop ZaloChat
 
 Gắn widget chat qua Zalo lên website của bạn trong vòng 1 nốt nhạc
 
